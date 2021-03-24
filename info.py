@@ -19,7 +19,7 @@ AUTH_USERS = []
 
 # MongoDB information
 DATABASE_URI = "mongodb+srv://Shijilraj:9747355576@cluster0.qwtjc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
-DATABASE_NAME = 'Media Search'
+DATABASE_NAME = Media Search
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
 # Messages
