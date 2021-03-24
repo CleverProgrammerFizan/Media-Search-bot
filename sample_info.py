@@ -16,7 +16,7 @@ CHANNELS = [-1001280193509, -1001370007665, -1001433161521, -1001457070859, -100
 AUTH_USERS = []
 
 # MongoDB information
-DATABASE_URI = "mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb]?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://Shijilraj:9747355576@cluster0.qwtjc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 DATABASE_NAME = 'Media Search'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
