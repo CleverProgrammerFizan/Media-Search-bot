@@ -7,7 +7,8 @@
 ### Installation
 
 #### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?repository=https://github.com/Sh-Jil/Media-Search-bot)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Sh-Jil/Media-Search-bot)
 
 #### Hard Way
 
