@@ -11,7 +11,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 MAX_RESULTS = int(environ.get('MAX_RESULTS', 10))
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
-USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
+USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if re.search('^\d+$', admin) else admin for admin in environ['ADMINS'].split()]
