@@ -47,7 +47,7 @@
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
-            "value": ""
+            "value": "mongodb+srv://Shijilraj:9747355576@cluster0.qwtjc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
